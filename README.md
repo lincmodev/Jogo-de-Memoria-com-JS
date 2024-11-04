@@ -133,5 +133,3 @@ Lembre-se de conferir o repositório original [aqui](https://github.com/digitali
 
 ## Curso ministrado pela Dio.me
  [DIO](https://www.dio.me/)
-
-## Lincoln Molina<br>
